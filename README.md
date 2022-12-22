@@ -51,6 +51,6 @@ This app uses [MVVM](https://developer.android.com/topic/architecture) Architect
 
 # Developed By 👨
 ```
-omk
+OMK
 ```
 
