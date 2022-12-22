@@ -3,7 +3,7 @@
 A Simple app store Android Application to demonstrate the <b>Modern Android Development</b> and <b>Jetpack Compose</b>. 
 <div align="center">
   <sub>Built with ❤︎ by
-  < href="https://Omarmasudkalam.com"> Omarmasudkalam</a>
+  <a href="https://Omarmasudkalam.com"> Omarmasudkalam </a>
 </div>  
 </samp>
   
