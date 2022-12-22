@@ -3,7 +3,7 @@
 A Simple app store Android Application to demonstrate the <b>Modern Android Development</b> and <b>Jetpack Compose</b>. 
 <div align="center">
   <sub>Built with ❤︎ by
-  < href="https://Omarmasudkalam.com"> Omarmasudkalam</sub>a>
+  < href="https://Omarmasudkalam.com"> Omarmasudkalam</a>
 </div>  
 </samp>
   
@@ -46,8 +46,6 @@ A Simple app store Android Application to demonstrate the <b>Modern Android Deve
 
 # Architecture 🏗️
 This app uses [MVVM](https://developer.android.com/topic/architecture) Architecture.
-
-<img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png"/>
 
 # Developed By 👨
 ```
