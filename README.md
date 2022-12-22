@@ -1,4 +1,4 @@
-# ComposeMovie Android 🎥
+#Android Aptoide App Store
 <samp>
 A Simple app store Android Application to demonstrate the <b>Modern Android Development</b> and <b>Jetpack Compose</b>. 
 <div align="center">
@@ -7,7 +7,7 @@ A Simple app store Android Application to demonstrate the <b>Modern Android Deve
 </div>  
 </samp>
   
-  # ScreenShots 📷  
+  # ScreenShots  
 <div align="center">
   <h3> Light Version </h3>
   <img src="https://github.com/Omarmasudkalam/AptoideAppStore/blob/main/images/mainscreen.png" width="230px"/> 
@@ -46,6 +46,8 @@ A Simple app store Android Application to demonstrate the <b>Modern Android Deve
 
 # Architecture 🏗️
 This app uses [MVVM](https://developer.android.com/topic/architecture) Architecture.
+
+<img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png"/>
 
 # Developed By 👨
 ```
